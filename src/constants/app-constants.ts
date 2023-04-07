@@ -1,0 +1,16 @@
+export const AppConstants = {
+  DEFAULT_FIRST_PAGE: 1,
+  DEFAULT_PAGE_SIZE: 5,
+  TABLE_LAYOUT: {
+    PAGE_SIZE_OPTIONS: [5, 10, 20, 100],
+    DEFAULT_PAGE_SIZE: 10,
+    DEFAULT_FIRST_PAGE: 1,
+  },
+  FILTER: {
+    DEFAULT_FILTER_TIMEOUT: 700,
+  },
+  DATE: {
+    FORMAT: "YYYY-MM-DD HH:mm:ss",
+  },
+  NEW_XSLT_PREVIEW_LENGTH: 500,
+};

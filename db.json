@@ -1,0 +1,573 @@
+{
+  "task": [
+    {
+      "id": "1",
+      "task_definition_name": "Close Workspace",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "WorkSpace WS for CR-00086",
+      "process_definition_type": "WorkSpace process",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "2",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Cancel",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "3",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+
+    {
+      "id": "4",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "5",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "6",
+      "task_definition_name": "Close Workspace",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "WorkSpace WS for CR-00086",
+      "process_definition_type": "WorkSpace process",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "7",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "8",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "9",
+      "task_definition_name": "Close Workspace",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "WorkSpace WS for CR-00086",
+      "process_definition_type": "WorkSpace process",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "10",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "11",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "12",
+      "task_definition_name": "Close Workspace",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "WorkSpace WS for CR-00086",
+      "process_definition_type": "WorkSpace process",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "13",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "14",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "15",
+      "task_definition_name": "Close Workspace",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "WorkSpace WS for CR-00086",
+      "process_definition_type": "WorkSpace process",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "16",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "17",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "18",
+      "task_definition_name": "Close Workspace",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "WorkSpace WS for CR-00086",
+      "process_definition_type": "WorkSpace process",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "19",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "20",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "21",
+      "task_definition_name": "Close Workspace",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "WorkSpace WS for CR-00086",
+      "process_definition_type": "WorkSpace process",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "22",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "23",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+
+    {
+      "id": "24",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "25",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "26",
+      "task_definition_name": "Close Workspace",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "WorkSpace WS for CR-00086",
+      "process_definition_type": "WorkSpace process",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "27",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "28",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "29",
+      "task_definition_name": "Close Workspace",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "WorkSpace WS for CR-00086",
+      "process_definition_type": "WorkSpace process",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "30",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "31",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "32",
+      "task_definition_name": "Close Workspace",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "WorkSpace WS for CR-00086",
+      "process_definition_type": "WorkSpace process",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "33",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "34",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "35",
+      "task_definition_name": "Close Workspace",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "WorkSpace WS for CR-00086",
+      "process_definition_type": "WorkSpace process",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "36",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "37",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "38",
+      "task_definition_name": "Close Workspace",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "WorkSpace WS for CR-00086",
+      "process_definition_type": "WorkSpace process",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "39",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "40",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "41",
+      "task_definition_name": "Close Workspace",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "WorkSpace WS for CR-00086",
+      "process_definition_type": "WorkSpace process",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "42",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "43",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+
+    {
+      "id": "44",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "45",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "46",
+      "task_definition_name": "Close Workspace",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "WorkSpace WS for CR-00086",
+      "process_definition_type": "WorkSpace process",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "47",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "48",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "49",
+      "task_definition_name": "Close Workspace",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "WorkSpace WS for CR-00086",
+      "process_definition_type": "WorkSpace process",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "50",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "51",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "52",
+      "task_definition_name": "Close Workspace",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "WorkSpace WS for CR-00086",
+      "process_definition_type": "WorkSpace process",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "53",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "54",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "55",
+      "task_definition_name": "Close Workspace",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "WorkSpace WS for CR-00086",
+      "process_definition_type": "WorkSpace process",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "56",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "57",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "58",
+      "task_definition_name": "Close Workspace",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "WorkSpace WS for CR-00086",
+      "process_definition_type": "WorkSpace process",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "59",
+      "task_definition_name": "Submit CR",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00086 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    },
+    {
+      "id": "60",
+      "task_definition_name": "Process in SDO",
+      "task_instance_status": "Running",
+      "task_instance_created_at": "2023-02-16 08:23:48",
+      "process_instance_name": "Change Request - CR-00085 New CR",
+      "process_definition_type": "Change Request",
+      "process_instance_effective_date": "2024-02-22"
+    }
+  ],
+  "form-definition": [
+    {
+      "title": "Task Name",
+      "dataIndex": "task_definition_name"
+    },
+    {
+      "title": "Task Status",
+      "dataIndex": "task_instance_status"
+    },
+    {
+      "title": "Created at",
+      "dataIndex": "task_instance_created_at"
+    },
+    {
+      "title": "Process Type",
+      "dataIndex": "process_definition_type"
+    },
+    {
+      "title": "Process Name",
+      "dataIndex": "process_instance_name"
+    },
+    {
+      "title": "Effective Date",
+      "dataIndex": "process_instance_effective_date"
+    }
+  ]
+}
